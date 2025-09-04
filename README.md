@@ -1,2 +1,2 @@
 # WST DIssertation
-Dissertation Project fpr the University of Bath
+Dissertation Project for the University of Bath
